@@ -12,7 +12,7 @@
 <table align="center">
   <tr>
     <td align="center"><img src="URL_TO_YOUR_GIF" width="400px"/><br><b>(a) Inference Demo</b></td>
-    <td align="center"><img src="URL_TO_YOUR_FIG1" width="400px"/><br><b>(b) Motivation/Overall Concept</b></td>
+    <td align="center"><img figs="headfig" width="400px"/><br><b>(b) Motivation/Overall Concept</b></td>
   </tr>
 </table>
 
