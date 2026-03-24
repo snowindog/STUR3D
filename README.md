@@ -1,6 +1,6 @@
 <div align="center">
 
-# <font color="#2e6da4" size="4">STUR3D: Spatio-Temporal Unified Representation Learning <br>for 3D Object Detection</font>
+## <font color="#2e6da4" style="font-size: 16px;">STUR3D: Spatio-Temporal Unified Representation Learning <br>for 3D Object Detection</font>
 
 [Huijie Fan](mailto:fanhuijie@sia.cn) <sup>1†</sup>, 
 [Pengrui Huang](mailto:huangpengrui@sia.cn) <sup>1,2†</sup>, 
