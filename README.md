@@ -89,7 +89,6 @@ Liangqiong Qu <sup>6</sup>
 </table>
 <p align="center">
   <img src="./figs/compare.png" width="95%"><br>
-  <i>Comparison with state-of-the-art methods on nuScenes dataset.</i>
 </p>
 
 ---
