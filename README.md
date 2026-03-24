@@ -27,7 +27,9 @@ Liangqiong Qu <sup>6</sup>
 [![Maintenance](https://img.shields.io/badge/Code-Coming_Soon-yellow?logo=visual-studio-code&logoColor=white)](#)
 
 </div>
+
 **Abstract:** Existing surrounding-view 3D object detectors typically initialize queries using 2D information from the current frame, leading to spatial and temporal inconsistencies. We propose **STUR3D**, a unified framework featuring three key components: **STOPP**, **STGE**, and **OQG**. STOPP addresses occlusion by introducing spatio-temporal object-centric point prompting; STGE unifies spatio-temporal geometric representations to resolve inconsistencies; and OQG utilizes depth-informed initialization for high-quality 3D queries. STUR3D achieves state-of-the-art performance, notably **64.6% NDS** and **57.9% mAP** on the nuScenes test benchmark.
+
 <p align="center">
   <img src="./figs/mainfig.png" width="95%"><br>
 </p>
