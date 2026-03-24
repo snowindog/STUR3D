@@ -5,9 +5,9 @@
 [Huijie Fan](mailto:fanhuijie@sia.cn) <sup>1,†</sup>, 
 [Pengrui Huang](mailto:huangpengrui@sia.cn) <sup>1,2†</sup>, 
 [Qiang Wang](mailto:wangqiang@sia.cn) <sup>3,*</sup>, 
-Baojie Fan <sup>1</sup>, 
-Jiahua Dong <sup>4</sup>, 
-Liangqiong Qu <sup>5,6</sup>
+Baojie Fan <sup>4</sup>, 
+Jiahua Dong <sup>5</sup>, 
+Liangqiong Qu <sup>6</sup>
 
 <p align="center">
   <sup>1</sup> State Key Laboratory of Robotics and Intelligent Systems, 
