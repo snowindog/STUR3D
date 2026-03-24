@@ -2,17 +2,15 @@
 
 # <font color="#2e6da4"> STUR3D: Spatio-Temporal Unified Representation Learning for 3D Object Detection </font>
 
-<p align="center">
-  [Huijie Fan](mailto:fanhuijie@sia.cn) <sup>1,†</sup>, 
-  [Pengrui Huang](mailto:huangpengrui@sia.cn) <sup>1,2,†</sup>, 
-  [Qiang Wang](mailto:wangqiang@sia.cn) <sup>3,*</sup>, 
-  [Baojie Fan](mailto:jobfbj@gmail.com) <sup>4</sup>, 
-  [Jiahua Dong](mailto:dongjiahua1995@gmail.com) <sup>5</sup>, 
-  [Liangqiong Qu](mailto:liangqqu@hku.hk) <sup>6</sup>
-</p>
+[Huijie Fan](mailto:fanhuijie@sia.cn) <sup>1,†</sup>, 
+[Pengrui Huang](mailto:huangpengrui@sia.cn) <sup>1,2†</sup>, 
+[Qiang Wang](mailto:wangqiang@sia.cn) <sup>3,*</sup>, 
+Baojie Fan <sup>1</sup>, 
+Jiahua Dong <sup>4</sup>, 
+Liangqiong Qu <sup>5,6</sup>
 
 <p align="center">
-  <sup>1</sup> State Key Laboratory of Robotics and Intelligent Systems, <br>
+  <sup>1</sup> State Key Laboratory of Robotics and Intelligent Systems, 
   Shenyang Institute of Automation, Chinese Academy of Sciences <br>
   <sup>2</sup> Shenyang University of Chemical Technology <br>
   <sup>3</sup> Key Laboratory of Manufacturing Industrial Integrated Automation, Shenyang University <br>
@@ -20,16 +18,9 @@
   <sup>5</sup> Mohamed bin Zayed University of Artificial Intelligence &nbsp;&nbsp;
   <sup>6</sup> The University of Hong Kong
 </p>
-
 <p align="center">
-  <code>{fanhuijie, huangpengrui, wangqiang}@sia.cn</code>, 
-  <code>{jobfbj, dongjiahua1995}@gmail.com</code>, 
-  <code>liangqqu@hku.hk</code>
-</p>
-
-<p align="center">
-  <strong>CVPR 2026</strong> <br>
-  <small><sup>†</sup> Equal contribution. &nbsp; <sup>*</sup> Corresponding author.</small>
+  <small><sup>†</sup> Equal contribution. &nbsp; <sup>*</sup> Corresponding author.</small><br>
+  <strong>CVPR 2026</strong> 
 </p>
 
 [![Paper](https://img.shields.io/badge/Arxiv-2026.xxxxx-red?logo=arxiv&logoColor=red)](https://your-paper-link.pdf)
