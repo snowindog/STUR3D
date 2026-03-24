@@ -105,3 +105,7 @@ Liangqiong Qu <sup>6</sup>
 }
 
 ## Acknowledgements
+
+We thank these great works and open-source repositories:
+[StreamPETR](https://github.com/exiawsh/StreamPETR),[OPEN](https://github.com/AlmoonYsl/OPEN),[Dformerv2](https://github.com/VCIP-RGBD/DFormer)
+and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d).
