@@ -2,9 +2,9 @@
 
 # <font color="#2e6da4"> STUR3D: Spatio-Temporal Unified Representation Learning for 3D Object Detection </font>
 
-[Huijie Fan](mailto:fanhuijie@sia.cn) <sup>1,†</sup>, 
+[Huijie Fan](mailto:fanhuijie@sia.cn) <sup>1†</sup>, 
 [Pengrui Huang](mailto:huangpengrui@sia.cn) <sup>1,2†</sup>, 
-[Qiang Wang](mailto:wangqiang@sia.cn) <sup>3,*</sup>, 
+[Qiang Wang](mailto:wangqiang@sia.cn) <sup>3*</sup>, 
 Baojie Fan <sup>4</sup>, 
 Jiahua Dong <sup>5</sup>, 
 Liangqiong Qu <sup>6</sup>
