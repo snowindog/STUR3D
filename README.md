@@ -51,9 +51,9 @@ Liangqiong Qu <sup>6</sup>
 
 ---
 
-## Performance Performance
+## ⭐Performance Performance
 
-### nuScenes Val Set
+### ⭐nuScenes Val Set
 <table align="center">
 <thead>
 <tr style="border-bottom: 2px solid black;">
@@ -73,7 +73,7 @@ Liangqiong Qu <sup>6</sup>
 </tbody>
 </table>
 
-### nuScenes Test Set
+### ⭐nuScenes Test Set
 <table align="center">
 <thead>
 <tr style="border-bottom: 2px solid black;">
@@ -89,6 +89,7 @@ Liangqiong Qu <sup>6</sup>
 <tr bgcolor="https://www.google.com/search?q=%23f2f2f2"><td align="left"><strong>STUR3D</strong></td><td align="center">V2-99</td><td align="center"><a href="https://www.google.com/search?q=https://github.com/TRI-ML/dd3d">DD3D</a></td><td align="center">1600×640</td><td align="center"><strong>57.9</strong></td><td align="center"><strong>64.6</strong></td></tr>
 </tbody>
 </table>
+
 <p align="center">
   <img src="./figs/compare.png" width="95%"><br>
 </p>
@@ -103,6 +104,7 @@ Liangqiong Qu <sup>6</sup>
   title={STUR3D: Spatio-Temporal Unified Representation Learning for 3D Object Detection},
   year={2026}
 }
+```
 
 ## Acknowledgements
 
