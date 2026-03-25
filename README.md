@@ -67,10 +67,11 @@ Liangqiong Qu <sup>6</sup>
 </thead>
 <tbody>
 <tr bgcolor="https://www.google.com/search?q=%23f2f2f2"><td align="left"><strong>STUR3D</strong></td><td align="center">R50</td><td align="center">ImageNet</td><td align="center">704×256</td><td align="center"><strong>44.8</strong></td><td align="center"><strong>55.0</strong></td></tr>
-<tr bgcolor="https://www.google.com/search?q=%23f2f2f2"><td align="left"><strong>STUR3</strong></td><td align="center">R50</td><td align="center"><a href="[https://github.com/open-mmlab/mmdetection3d](https://download.openmmlab.com/mmdetection3d/v0.1.0_models/nuimages_semseg/cascade_mask_rcnn_r50_fpn_coco-20e_20e_nuim/cascade_mask_rcnn_r50_fpn_coco-20e_20e_nuim_20201009_124951-40963960.pth)">nuImage</a></td><td align="center">704×256</td><td align="center"><strong>48.6</strong></td><td align="center"><strong>57.9</strong></td></tr>
+<tr bgcolor="https://www.google.com/search?q=%23f2f2f2"><td align="left"><strong>STUR3</strong></td><td align="center">R50</td><td align="center"><a href="https://download.openmmlab.com/mmdetection3d/v0.1.0_models/nuimages_semseg/cascade_mask_rcnn_r50_fpn_coco-20e_20e_nuim/cascade_mask_rcnn_r50_fpn_coco-20e_20e_nuim_20201009_124951-40963960.pth">nuImage</a></td><td align="center">704×256</td><td align="center"><strong>48.6</strong></td><td align="center"><strong>57.9</strong></td></tr>
 <tr bgcolor="https://www.google.com/search?q=%23f2f2f2"><td align="left"><strong>STUR3D</strong></td><td align="center">V2-99</td><td align="center"><a href="https://www.google.com/search?q=https://github.com/TRI-ML/dd3d">DD3D</a></td><td align="center">800×320</td><td align="center"><strong>53.0</strong></td><td align="center"><strong>61.2</strong></td></tr>
-<tr bgcolor="https://www.google.com/search?q=%23f2f2f2"><td align="left"><strong>STUR3D)</strong></td><td align="center">R101</td><td align="center"><a href="[https://github.com/open-mmlab/mmdetection3d](https://download.openmmlab.com/mmdetection3d/v0.1.0_models/nuimages_semseg/cascade_mask_rcnn_r101_fpn_1x_nuim/cascade_mask_rcnn_r101_fpn_1x_nuim_20201024_134804-45215b1e.pth)">nuImage</a></td><td align="center">1408×512</td><td align="center"><strong>53.1</strong></td><td align="center"><strong>61.3</strong></td></tr>
+<tr bgcolor="https://www.google.com/search?q=%23f2f2f2"><td align="left"><strong>STUR3D</strong></td><td align="center">R101</td><td align="center"><a href="https://download.openmmlab.com/mmdetection3d/v0.1.0_models/nuimages_semseg/cascade_mask_rcnn_r101_fpn_1x_nuim/cascade_mask_rcnn_r101_fpn_1x_nuim_20201024_134804-45215b1e.pth">nuImage</a></td><td align="center">1408×512</td><td align="center"><strong>53.1</strong></td><td align="center"><strong>61.3</strong></td></tr>
 </tbody>
+
 </table>
 
 ### ⭐nuScenes Test Set
